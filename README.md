@@ -1,14 +1,14 @@
 # Tracking-Maternal-Health-Progress
 
 
-## 📖 Project Overview
+##  Project Overview
 
 This project analyzes maternal health data to support **Sustainable Development Goal (SDG) 3.1**, which aims to reduce maternal mortality.
 It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on health indicators.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Predict maternal mortality trends
 * Analyze impact of healthcare factors
@@ -16,7 +16,7 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Source: **Data.gov.in (SDG National Indicator Framework)**
 * Features used:
@@ -32,14 +32,14 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## 🤖 Machine Learning Models
+##  Machine Learning Models
 
 * Decision Tree Classifier (initial model)
 * Linear Regression (final model for prediction)
 
 ---
 
-## ☁️ Technologies Used
+##  Technologies Used
 
 * IBM Watson Studio
 * IBM Cloud Object Storage
@@ -49,7 +49,7 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 1. Data Collection from Data.gov.in
 2. Data Cleaning & Preprocessing
@@ -59,7 +59,7 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## 🚀 Features
+##  Features
 
 * User input for health indicators
 * Real-time prediction using deployed model
@@ -67,7 +67,7 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Clone the repository
 2. Install dependencies (`pip install django requests`)
@@ -84,13 +84,13 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## 📈 Output
+## Output
 
 * Predicts **Maternal Mortality Ratio (MMR)** based on inputs
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Add more health indicators
 * Improve model accuracy using advanced algorithms
@@ -98,7 +98,7 @@ It uses machine learning to predict **Maternal Mortality Ratio (MMR)** based on 
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 *A.V.SHASHI PREETHI
 
